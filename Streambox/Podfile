@@ -1,0 +1,7 @@
+use_frameworks!
+
+target 'Streambox' do
+
+  pod 'SwiftyDropbox'
+  
+end
