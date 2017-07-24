@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		060524A21F22B6DE004E7551 /* Entry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060524A11F22B6DE004E7551 /* Entry.swift */; };
 		0605CED81F100D9C00FA77AC /* Storyboard+Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0605CED71F100D9C00FA77AC /* Storyboard+Utility.swift */; };
 		0605CEDC1F10228D00FA77AC /* DropboxHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0605CEDB1F10228D00FA77AC /* DropboxHelper.swift */; };
 		0605CEDF1F102AB700FA77AC /* FoldersTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0605CEDE1F102AB700FA77AC /* FoldersTableViewCell.swift */; };
@@ -43,6 +44,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		060524A11F22B6DE004E7551 /* Entry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Entry.swift; sourceTree = "<group>"; };
 		0605CED71F100D9C00FA77AC /* Storyboard+Utility.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Storyboard+Utility.swift"; sourceTree = "<group>"; };
 		0605CEDA1F101E7200FA77AC /* Streambox.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Streambox.entitlements; sourceTree = "<group>"; };
 		0605CEDB1F10228D00FA77AC /* DropboxHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DropboxHelper.swift; sourceTree = "<group>"; };
@@ -222,6 +224,7 @@
 				06F24BE71F0F0209009FA14D /* Playlist.swift */,
 				06F24BE91F0F0215009FA14D /* User.swift */,
 				069CDAFD1F142A0500F4CBE8 /* Item.swift */,
+				060524A11F22B6DE004E7551 /* Entry.swift */,
 			);
 			name = "Data Models";
 			sourceTree = "<group>";
@@ -398,6 +401,7 @@
 				0605CEEC1F10319E00FA77AC /* MainTabBarViewController.swift in Sources */,
 				0605CEDF1F102AB700FA77AC /* FoldersTableViewCell.swift in Sources */,
 				06F24BEE1F0F03D5009FA14D /* SelectFoldersViewController.swift in Sources */,
+				060524A21F22B6DE004E7551 /* Entry.swift in Sources */,
 				063FE63A1F0EF8B700311EA7 /* LoginViewController.swift in Sources */,
 				063FE6381F0EF8B700311EA7 /* AppDelegate.swift in Sources */,
 				06F24BE81F0F0209009FA14D /* Playlist.swift in Sources */,
