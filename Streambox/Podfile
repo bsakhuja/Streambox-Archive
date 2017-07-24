@@ -3,5 +3,6 @@ use_frameworks!
 target 'Streambox' do
 
   pod 'SwiftyDropbox'
+  pod 'NVActivityIndicatorView'
   
 end
