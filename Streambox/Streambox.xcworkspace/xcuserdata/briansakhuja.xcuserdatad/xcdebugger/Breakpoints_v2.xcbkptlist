@@ -9,13 +9,13 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Streambox/SelectFoldersViewController.swift"
-            timestampString = "522719293.370742"
+            filePath = "Streambox/SongsViewController.swift"
+            timestampString = "522795834.273472"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "156"
-            endingLineNumber = "156"
-            landmarkName = "whenEntryIsSelected(cell:)"
+            startingLineNumber = "345"
+            endingLineNumber = "345"
+            landmarkName = "tableView(_:didSelectRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -25,14 +25,46 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Streambox/AddSongsToPlaylistViewController.swift"
-            timestampString = "522719300.891257"
+            filePath = "Streambox/SelectFoldersViewController.swift"
+            timestampString = "522794255.279118"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "86"
-            endingLineNumber = "86"
-            landmarkName = "whenSongIsSelected(cell:)"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "initializeItems(rootPath:)"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Streambox.SelectFoldersViewController.initializeItems (rootPath : Swift.String) -&gt; ()"
+                  moduleName = "Streambox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/briansakhuja/Dropbox/Xcode/Make%20School/Streambox/StreamboxNew/Streambox/Streambox/SelectFoldersViewController.swift"
+                  timestampString = "522795503.794053"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Streambox.SelectFoldersViewController.(initializeItems (rootPath : Swift.String) -&gt; ()).(closure #1)"
+                  moduleName = "Streambox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/briansakhuja/Dropbox/Xcode/Make%20School/Streambox/StreamboxNew/Streambox/Streambox/SelectFoldersViewController.swift"
+                  timestampString = "522795503.797917"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
