@@ -26,7 +26,7 @@
                   moduleName = "Streambox"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/briansakhuja/Dropbox/Xcode/Make%20School/Streambox/StreamboxNew/Streambox/Streambox/SelectFoldersViewController.swift"
-                  timestampString = "522869522.881694"
+                  timestampString = "522872237.020679"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "63"
@@ -41,7 +41,7 @@
                   moduleName = "Streambox"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/briansakhuja/Dropbox/Xcode/Make%20School/Streambox/StreamboxNew/Streambox/Streambox/SelectFoldersViewController.swift"
-                  timestampString = "522869522.886834"
+                  timestampString = "522872237.023997"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "64"
@@ -49,6 +49,22 @@
                   offsetFromSymbolStart = "24">
                </Location>
             </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Streambox/SongsViewController.swift"
+            timestampString = "522870010.616274"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "346"
+            endingLineNumber = "346"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
