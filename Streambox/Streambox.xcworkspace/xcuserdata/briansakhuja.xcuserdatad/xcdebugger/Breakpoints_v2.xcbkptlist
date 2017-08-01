@@ -9,22 +9,6 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Streambox/SongsViewController.swift"
-            timestampString = "523233613.615305"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "334"
-            endingLineNumber = "334"
-            landmarkName = "tableView(_:didSelectRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
             filePath = "Streambox/PlaylistDetailViewController.swift"
             timestampString = "523231567.535093"
             startingColumnNumber = "9223372036854775807"
@@ -74,7 +58,7 @@
                   moduleName = "Streambox"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/briansakhuja/Dropbox/Xcode/Make%20School/Streambox/StreamboxNew/Streambox/Streambox/AddSongsToPlaylistViewController.swift"
-                  timestampString = "523232840.0677"
+                  timestampString = "523298574.334951"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "65"
@@ -89,7 +73,7 @@
                   moduleName = "Streambox"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/briansakhuja/Dropbox/Xcode/Make%20School/Streambox/StreamboxNew/Streambox/Streambox/AddSongsToPlaylistViewController.swift"
-                  timestampString = "523232840.069917"
+                  timestampString = "523298574.337046"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "65"
