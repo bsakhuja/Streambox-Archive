@@ -18,6 +18,7 @@
 		0605CEEA1F10317500FA77AC /* SongsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0605CEE91F10317500FA77AC /* SongsViewController.swift */; };
 		0605CEEC1F10319E00FA77AC /* MainTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0605CEEB1F10319E00FA77AC /* MainTabBarViewController.swift */; };
 		0605CEEE1F10332400FA77AC /* PlaylistDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0605CEED1F10332400FA77AC /* PlaylistDetailViewController.swift */; };
+		060960EF1F314AB300A57606 /* SongControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060960EE1F314AB200A57606 /* SongControlsView.swift */; };
 		060D194D1F2F967A00F8F825 /* SongDownloadProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D194C1F2F967A00F8F825 /* SongDownloadProgressView.swift */; };
 		060D194F1F2F9E8900F8F825 /* Lato in Resources */ = {isa = PBXBuildFile; fileRef = 061363831F2D4A290093346D /* Lato */; };
 		06262C951F200FD0006878B1 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 06262C941F200FD0006878B1 /* AVFoundation.framework */; };
@@ -58,6 +59,7 @@
 		0605CEE91F10317500FA77AC /* SongsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongsViewController.swift; sourceTree = "<group>"; };
 		0605CEEB1F10319E00FA77AC /* MainTabBarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainTabBarViewController.swift; sourceTree = "<group>"; };
 		0605CEED1F10332400FA77AC /* PlaylistDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaylistDetailViewController.swift; sourceTree = "<group>"; };
+		060960EE1F314AB200A57606 /* SongControlsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongControlsView.swift; sourceTree = "<group>"; };
 		060D194C1F2F967A00F8F825 /* SongDownloadProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongDownloadProgressView.swift; sourceTree = "<group>"; };
 		061363831F2D4A290093346D /* Lato */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Lato; sourceTree = SOURCE_ROOT; };
 		06262C941F200FD0006878B1 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
@@ -220,6 +222,7 @@
 			isa = PBXGroup;
 			children = (
 				06DCB7F61F21234900E18AC6 /* SongControllerToolbar.swift */,
+				060960EE1F314AB200A57606 /* SongControlsView.swift */,
 			);
 			name = Toolbar;
 			sourceTree = "<group>";
@@ -409,6 +412,7 @@
 				0605CEE81F10316E00FA77AC /* PlaylistsViewController.swift in Sources */,
 				0605CED81F100D9C00FA77AC /* Storyboard+Utility.swift in Sources */,
 				0605CEDC1F10228D00FA77AC /* DropboxHelper.swift in Sources */,
+				060960EF1F314AB300A57606 /* SongControlsView.swift in Sources */,
 				069CDAFE1F142A0500F4CBE8 /* Item.swift in Sources */,
 				0605CEEC1F10319E00FA77AC /* MainTabBarViewController.swift in Sources */,
 				0605CEDF1F102AB700FA77AC /* FoldersTableViewCell.swift in Sources */,
