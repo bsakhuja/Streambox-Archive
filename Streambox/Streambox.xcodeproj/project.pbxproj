@@ -316,6 +316,7 @@
 				063FE6321F0EF8B700311EA7 /* Resources */,
 				E4702AD0033778EF98B71CC3 /* [CP] Embed Pods Frameworks */,
 				13F8209A44C32D96F96A9EA6 /* [CP] Copy Pods Resources */,
+				06F0B9351F34F30D00D2FE01 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -398,6 +399,19 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		06F0B9351F34F30D00D2FE01 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Fabric/run\" 300b6497cc82fc8193e84edf9e8687a052ac0671 80eac544169f63abe97b5b0f966ebd8e597e761cab679c6fe39144856e2b6ee6";
+		};
 		13F8209A44C32D96F96A9EA6 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -593,6 +607,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = Streambox/Streambox.entitlements;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = DUCAN2M87U;
 				INFOPLIST_FILE = Streambox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -608,6 +623,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = Streambox/Streambox.entitlements;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = DUCAN2M87U;
 				INFOPLIST_FILE = Streambox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
