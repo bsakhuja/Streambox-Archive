@@ -20,7 +20,6 @@
 		0605CEEE1F10332400FA77AC /* PlaylistDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0605CEED1F10332400FA77AC /* PlaylistDetailViewController.swift */; };
 		060960EF1F314AB300A57606 /* SongControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060960EE1F314AB200A57606 /* SongControlsView.swift */; };
 		060D194D1F2F967A00F8F825 /* SongDownloadProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D194C1F2F967A00F8F825 /* SongDownloadProgressView.swift */; };
-		060D194F1F2F9E8900F8F825 /* Lato in Resources */ = {isa = PBXBuildFile; fileRef = 061363831F2D4A290093346D /* Lato */; };
 		06262C951F200FD0006878B1 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 06262C941F200FD0006878B1 /* AVFoundation.framework */; };
 		063F6ADF1F2BA0C10001FB07 /* PlaylistSongsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063F6ADE1F2BA0C10001FB07 /* PlaylistSongsTableViewCell.swift */; };
 		063FE6381F0EF8B700311EA7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063FE6371F0EF8B700311EA7 /* AppDelegate.swift */; };
@@ -28,6 +27,17 @@
 		063FE6401F0EF8B700311EA7 /* Streambox.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 063FE63E1F0EF8B700311EA7 /* Streambox.xcdatamodeld */; };
 		063FE6421F0EF8B700311EA7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 063FE6411F0EF8B700311EA7 /* Assets.xcassets */; };
 		063FE6451F0EF8B700311EA7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 063FE6431F0EF8B700311EA7 /* LaunchScreen.storyboard */; };
+		069619ED1F33AF380088A059 /* Lato in Resources */ = {isa = PBXBuildFile; fileRef = 061363831F2D4A290093346D /* Lato */; };
+		069619F61F33E1C00088A059 /* Lato-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 069619F51F33E1C00088A059 /* Lato-Black.ttf */; };
+		069619F81F33E1C40088A059 /* Lato-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 069619F71F33E1C40088A059 /* Lato-BlackItalic.ttf */; };
+		069619FA1F33E1C70088A059 /* Lato-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 069619F91F33E1C70088A059 /* Lato-Bold.ttf */; };
+		069619FC1F33E1CC0088A059 /* Lato-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 069619FB1F33E1CC0088A059 /* Lato-BoldItalic.ttf */; };
+		069619FE1F33E1CF0088A059 /* Lato-Hairline.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 069619FD1F33E1CF0088A059 /* Lato-Hairline.ttf */; };
+		06961A001F33E1D40088A059 /* Lato-HairlineItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 069619FF1F33E1D40088A059 /* Lato-HairlineItalic.ttf */; };
+		06961A021F33E1DB0088A059 /* Lato-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 06961A011F33E1DB0088A059 /* Lato-Italic.ttf */; };
+		06961A041F33E1E00088A059 /* Lato-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 06961A031F33E1E00088A059 /* Lato-Light.ttf */; };
+		06961A061F33E1E30088A059 /* Lato-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 06961A051F33E1E30088A059 /* Lato-LightItalic.ttf */; };
+		06961A081F33E1E80088A059 /* Lato-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 06961A071F33E1E80088A059 /* Lato-Regular.ttf */; };
 		069CDAF21F13EC5B00F4CBE8 /* SongsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069CDAF11F13EC5B00F4CBE8 /* SongsTableViewCell.swift */; };
 		069CDAF41F13EC6700F4CBE8 /* PlaylistsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069CDAF31F13EC6700F4CBE8 /* PlaylistsTableViewCell.swift */; };
 		069CDAF81F13F2CF00F4CBE8 /* AddSongsToPlaylistTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069CDAF71F13F2CF00F4CBE8 /* AddSongsToPlaylistTableViewCell.swift */; };
@@ -61,7 +71,7 @@
 		0605CEED1F10332400FA77AC /* PlaylistDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaylistDetailViewController.swift; sourceTree = "<group>"; };
 		060960EE1F314AB200A57606 /* SongControlsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongControlsView.swift; sourceTree = "<group>"; };
 		060D194C1F2F967A00F8F825 /* SongDownloadProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongDownloadProgressView.swift; sourceTree = "<group>"; };
-		061363831F2D4A290093346D /* Lato */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Lato; sourceTree = SOURCE_ROOT; };
+		061363831F2D4A290093346D /* Lato */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Lato; path = "/Users/briansakhuja/Dropbox/Xcode/Make School/Streambox/StreamboxNew/Streambox/Lato"; sourceTree = "<absolute>"; };
 		06262C941F200FD0006878B1 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		063F6ADE1F2BA0C10001FB07 /* PlaylistSongsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaylistSongsTableViewCell.swift; sourceTree = "<group>"; };
 		063FE6341F0EF8B700311EA7 /* Streambox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Streambox.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -71,6 +81,16 @@
 		063FE6411F0EF8B700311EA7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		063FE6441F0EF8B700311EA7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		063FE6461F0EF8B700311EA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		069619F51F33E1C00088A059 /* Lato-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Lato-Black.ttf"; path = "Lato/Lato-Black.ttf"; sourceTree = "<group>"; };
+		069619F71F33E1C40088A059 /* Lato-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Lato-BlackItalic.ttf"; path = "Lato/Lato-BlackItalic.ttf"; sourceTree = "<group>"; };
+		069619F91F33E1C70088A059 /* Lato-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Lato-Bold.ttf"; path = "Lato/Lato-Bold.ttf"; sourceTree = "<group>"; };
+		069619FB1F33E1CC0088A059 /* Lato-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Lato-BoldItalic.ttf"; path = "Lato/Lato-BoldItalic.ttf"; sourceTree = "<group>"; };
+		069619FD1F33E1CF0088A059 /* Lato-Hairline.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Lato-Hairline.ttf"; path = "Lato/Lato-Hairline.ttf"; sourceTree = "<group>"; };
+		069619FF1F33E1D40088A059 /* Lato-HairlineItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Lato-HairlineItalic.ttf"; path = "Lato/Lato-HairlineItalic.ttf"; sourceTree = "<group>"; };
+		06961A011F33E1DB0088A059 /* Lato-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Lato-Italic.ttf"; path = "Lato/Lato-Italic.ttf"; sourceTree = "<group>"; };
+		06961A031F33E1E00088A059 /* Lato-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Lato-Light.ttf"; path = "Lato/Lato-Light.ttf"; sourceTree = "<group>"; };
+		06961A051F33E1E30088A059 /* Lato-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Lato-LightItalic.ttf"; path = "Lato/Lato-LightItalic.ttf"; sourceTree = "<group>"; };
+		06961A071F33E1E80088A059 /* Lato-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Lato-Regular.ttf"; path = "Lato/Lato-Regular.ttf"; sourceTree = "<group>"; };
 		069CDAF11F13EC5B00F4CBE8 /* SongsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongsTableViewCell.swift; sourceTree = "<group>"; };
 		069CDAF31F13EC6700F4CBE8 /* PlaylistsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaylistsTableViewCell.swift; sourceTree = "<group>"; };
 		069CDAF71F13F2CF00F4CBE8 /* AddSongsToPlaylistTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddSongsToPlaylistTableViewCell.swift; sourceTree = "<group>"; };
@@ -163,6 +183,7 @@
 		063FE6361F0EF8B700311EA7 /* Streambox */ = {
 			isa = PBXGroup;
 			children = (
+				06961A091F33E1EE0088A059 /* Lato */,
 				061363831F2D4A290093346D /* Lato */,
 				0605CEDA1F101E7200FA77AC /* Streambox.entitlements */,
 				063FE6371F0EF8B700311EA7 /* AppDelegate.swift */,
@@ -217,6 +238,24 @@
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
+		};
+		06961A091F33E1EE0088A059 /* Lato */ = {
+			isa = PBXGroup;
+			children = (
+				06961A071F33E1E80088A059 /* Lato-Regular.ttf */,
+				06961A051F33E1E30088A059 /* Lato-LightItalic.ttf */,
+				06961A031F33E1E00088A059 /* Lato-Light.ttf */,
+				06961A011F33E1DB0088A059 /* Lato-Italic.ttf */,
+				069619FF1F33E1D40088A059 /* Lato-HairlineItalic.ttf */,
+				069619FD1F33E1CF0088A059 /* Lato-Hairline.ttf */,
+				069619FB1F33E1CC0088A059 /* Lato-BoldItalic.ttf */,
+				069619F91F33E1C70088A059 /* Lato-Bold.ttf */,
+				069619F71F33E1C40088A059 /* Lato-BlackItalic.ttf */,
+				069619F51F33E1C00088A059 /* Lato-Black.ttf */,
+			);
+			name = Lato;
+			path = "/Users/briansakhuja/Dropbox/Xcode/Make School/Streambox/StreamboxNew/Streambox/Streambox/..";
+			sourceTree = "<absolute>";
 		};
 		06DCB7F81F21235500E18AC6 /* Toolbar */ = {
 			isa = PBXGroup;
@@ -339,9 +378,19 @@
 				0605CEE61F10315A00FA77AC /* Playlists.storyboard in Resources */,
 				0605CEE21F10309200FA77AC /* Main.storyboard in Resources */,
 				063FE6451F0EF8B700311EA7 /* LaunchScreen.storyboard in Resources */,
+				069619ED1F33AF380088A059 /* Lato in Resources */,
+				069619F61F33E1C00088A059 /* Lato-Black.ttf in Resources */,
+				069619F81F33E1C40088A059 /* Lato-BlackItalic.ttf in Resources */,
+				069619FA1F33E1C70088A059 /* Lato-Bold.ttf in Resources */,
+				069619FC1F33E1CC0088A059 /* Lato-BoldItalic.ttf in Resources */,
+				069619FE1F33E1CF0088A059 /* Lato-Hairline.ttf in Resources */,
+				06961A001F33E1D40088A059 /* Lato-HairlineItalic.ttf in Resources */,
+				06961A021F33E1DB0088A059 /* Lato-Italic.ttf in Resources */,
+				06961A041F33E1E00088A059 /* Lato-Light.ttf in Resources */,
+				06961A061F33E1E30088A059 /* Lato-LightItalic.ttf in Resources */,
+				06961A081F33E1E80088A059 /* Lato-Regular.ttf in Resources */,
 				0605CEE41F10313800FA77AC /* Songs.storyboard in Resources */,
 				06F24BEC1F0F03B9009FA14D /* SelectFolders.storyboard in Resources */,
-				060D194F1F2F9E8900F8F825 /* Lato in Resources */,
 				063FE6421F0EF8B700311EA7 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
