@@ -5,6 +5,5 @@ target 'Streambox' do
   pod 'SwiftyDropbox'
   pod 'NVActivityIndicatorView'
   pod 'Fabric'
-  pod 'Answers'
-  
+  pod 'Answers'  
 end

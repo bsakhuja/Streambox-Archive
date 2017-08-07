@@ -9,44 +9,12 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Streambox/SelectFoldersViewController.swift"
-            timestampString = "523574862.328778"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "87"
-            endingLineNumber = "87"
-            landmarkName = "prepare(for:sender:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Streambox/SelectFoldersViewController.swift"
-            timestampString = "523574876.33481"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "108"
-            endingLineNumber = "108"
-            landmarkName = "onDone(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
             filePath = "Streambox/SongsViewController.swift"
-            timestampString = "523580759.87537"
+            timestampString = "523820356.437393"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "346"
-            endingLineNumber = "346"
+            startingLineNumber = "347"
+            endingLineNumber = "347"
             landmarkName = "tableView(_:commit:forRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -58,13 +26,156 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Streambox/SongsViewController.swift"
-            timestampString = "523580759.87537"
+            timestampString = "523820356.437393"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "353"
-            endingLineNumber = "353"
+            startingLineNumber = "354"
+            endingLineNumber = "354"
             landmarkName = "tableView(_:commit:forRowAt:)"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Streambox/DropboxHelper.swift"
+            timestampString = "523677745.122471"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "downloadFile(directory:progressBar:onCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Streambox/DropboxHelper.swift"
+            timestampString = "523677745.122471"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "downloadFile(directory:progressBar:onCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Streambox/PlaylistDetailViewController.swift"
+            timestampString = "523820041.115579"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
+            landmarkName = "prepareForPlaySong(index:songCell:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Streambox.PlaylistDetailViewController.prepareForPlaySong (index : Swift.Int, songCell : Streambox.PlaylistSongsTableViewCell) -&gt; ()"
+                  moduleName = "Streambox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/briansakhuja/Dropbox/Xcode/Make%20School/Streambox/StreamboxNew/Streambox/Streambox/PlaylistDetailViewController.swift"
+                  timestampString = "523821159.682387"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "227"
+                  endingLineNumber = "227"
+                  offsetFromSymbolStart = "684">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Streambox.PlaylistDetailViewController.prepareForPlaySong (index : Swift.Int, songCell : Streambox.PlaylistSongsTableViewCell) -&gt; ()"
+                  moduleName = "Streambox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/briansakhuja/Dropbox/Xcode/Make%20School/Streambox/StreamboxNew/Streambox/Streambox/PlaylistDetailViewController.swift"
+                  timestampString = "523821159.685141"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "227"
+                  endingLineNumber = "227"
+                  offsetFromSymbolStart = "2500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Streambox/PlaylistDetailViewController.swift"
+            timestampString = "523820041.115579"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
+            landmarkName = "prepareForPlaySong(index:songCell:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Streambox.PlaylistDetailViewController.prepareForPlaySong (index : Swift.Int, songCell : Streambox.PlaylistSongsTableViewCell) -&gt; ()"
+                  moduleName = "Streambox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/briansakhuja/Dropbox/Xcode/Make%20School/Streambox/StreamboxNew/Streambox/Streambox/PlaylistDetailViewController.swift"
+                  timestampString = "523821159.691685"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "1772">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Streambox.PlaylistDetailViewController.(prepareForPlaySong (index : Swift.Int, songCell : Streambox.PlaylistSongsTableViewCell) -&gt; ()).(implicit closure #1)"
+                  moduleName = "Streambox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/briansakhuja/Dropbox/Xcode/Make%20School/Streambox/StreamboxNew/Streambox/Streambox/PlaylistDetailViewController.swift"
+                  timestampString = "523821159.694488"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Streambox.PlaylistDetailViewController.(prepareForPlaySong (index : Swift.Int, songCell : Streambox.PlaylistSongsTableViewCell) -&gt; ()).(closure #1)"
+                  moduleName = "Streambox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/briansakhuja/Dropbox/Xcode/Make%20School/Streambox/StreamboxNew/Streambox/Streambox/PlaylistDetailViewController.swift"
+                  timestampString = "523821159.697289"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "237"
+                  endingLineNumber = "237"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
