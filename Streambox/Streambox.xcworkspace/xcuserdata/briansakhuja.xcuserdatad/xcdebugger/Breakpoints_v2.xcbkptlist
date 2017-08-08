@@ -10,13 +10,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Streambox/SongsViewController.swift"
-            timestampString = "523820356.437393"
+            timestampString = "523909570.193042"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "347"
             endingLineNumber = "347"
-            landmarkName = "tableView(_:commit:forRowAt:)"
-            landmarkType = "7">
+            landmarkName = "SongsViewController"
+            landmarkType = "4">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -26,7 +26,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Streambox/SongsViewController.swift"
-            timestampString = "523820356.437393"
+            timestampString = "523909570.193042"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "354"
@@ -47,7 +47,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "95"
             endingLineNumber = "95"
-            landmarkName = "downloadFile(directory:progressBar:onCompletion:)"
+            landmarkName = "downloadFile(song:directory:progressBar:onCompletion:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -63,7 +63,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "99"
             endingLineNumber = "99"
-            landmarkName = "downloadFile(directory:progressBar:onCompletion:)"
+            landmarkName = "downloadFile(song:directory:progressBar:onCompletion:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -90,7 +90,7 @@
                   moduleName = "Streambox"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/briansakhuja/Dropbox/Xcode/Make%20School/Streambox/StreamboxNew/Streambox/Streambox/PlaylistDetailViewController.swift"
-                  timestampString = "523821159.682387"
+                  timestampString = "523909286.29467"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "227"
@@ -105,12 +105,12 @@
                   moduleName = "Streambox"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/briansakhuja/Dropbox/Xcode/Make%20School/Streambox/StreamboxNew/Streambox/Streambox/PlaylistDetailViewController.swift"
-                  timestampString = "523821159.685141"
+                  timestampString = "523909286.297836"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "227"
                   endingLineNumber = "227"
-                  offsetFromSymbolStart = "2500">
+                  offsetFromSymbolStart = "2588">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -138,7 +138,7 @@
                   moduleName = "Streambox"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/briansakhuja/Dropbox/Xcode/Make%20School/Streambox/StreamboxNew/Streambox/Streambox/PlaylistDetailViewController.swift"
-                  timestampString = "523821159.691685"
+                  timestampString = "523909286.307848"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "236"
@@ -153,7 +153,7 @@
                   moduleName = "Streambox"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/briansakhuja/Dropbox/Xcode/Make%20School/Streambox/StreamboxNew/Streambox/Streambox/PlaylistDetailViewController.swift"
-                  timestampString = "523821159.694488"
+                  timestampString = "523909286.312329"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "236"
@@ -168,7 +168,7 @@
                   moduleName = "Streambox"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/briansakhuja/Dropbox/Xcode/Make%20School/Streambox/StreamboxNew/Streambox/Streambox/PlaylistDetailViewController.swift"
-                  timestampString = "523821159.697289"
+                  timestampString = "523909286.3154"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "237"

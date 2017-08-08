@@ -1,6 +1,6 @@
 PODS:
   - Alamofire (4.4.0)
-  - Answers (1.3.5):
+  - Crashlytics (3.8.5):
     - Fabric (~> 1.6.3)
   - Fabric (1.6.12)
   - NVActivityIndicatorView (3.7.0):
@@ -10,18 +10,18 @@ PODS:
     - Alamofire (~> 4.4.0)
 
 DEPENDENCIES:
-  - Answers
+  - Crashlytics
   - Fabric
   - NVActivityIndicatorView
   - SwiftyDropbox
 
 SPEC CHECKSUMS:
   Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
-  Answers: 567cbf43974855481b648db06692a3530de6b16e
+  Crashlytics: dfbae35ef22ca189240d230ad501feea4ee85d2d
   Fabric: f050464eac45a2ce5a8e6e6a07e977c0df32fe28
   NVActivityIndicatorView: d3738df7e2e476aca0ba6bf32a8c9fbcfc33d64b
   SwiftyDropbox: eb79d166c2850e50eed01c280c7c64b4b69c50a5
 
-PODFILE CHECKSUM: e5799c48b8aefc4769dc99447702634904c0fe32
+PODFILE CHECKSUM: fda48cfae89fc92be36bfbc90d4c031c2b30065e
 
 COCOAPODS: 1.2.1
